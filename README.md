@@ -7,7 +7,7 @@ Sample 2: https://github.com/merecoin/halfcoin
 
 Term of execution: not more than one week.
 
-Package price: from 0.015 BTC.
+Package price: from 0.15 BTC.
 
 The cost of the minimum package includes:
 
